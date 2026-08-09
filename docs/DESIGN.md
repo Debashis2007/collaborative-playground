@@ -1,7 +1,7 @@
 # Design: Collaborative Playground
 
 **Project:** `collaborative-playground`  
-**Parent system design:** [02 — Streaming Token Delivery](../02-streaming-token-delivery.md) · [10 — Global Realtime Product Surface](../10-global-realtime-product-surface.md)
+**Parent system design:** [02 — Streaming Token Delivery](https://github.com/Debashis2007/collaborative-playground/blob/main/02-streaming-token-delivery.md) · [10 — Global Realtime Product Surface](https://github.com/Debashis2007/collaborative-playground/blob/main/10-global-realtime-product-surface.md)
 
 ## 1. What this POC demonstrates
 
