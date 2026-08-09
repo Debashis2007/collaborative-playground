@@ -1,5 +1,7 @@
 # Use Case: Collaborative Playground
 
+**Author fingerprint:** `DBHATT-Debashis2007-SystemDesignPOC-2026` — Debashis Bhattacharjee ([@Debashis2007](https://github.com/Debashis2007))
+
 **YouTube walkthrough:** [Collaborative Playground — System Design #Shorts](https://youtu.be/YgqE_iyIIE8)
 
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
