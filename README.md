@@ -7,8 +7,8 @@
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
-**Parent system design:** [02 — Streaming Token Delivery](../02-streaming-token-delivery.md)  
-**Also references:** [10 — Global realtime product](../10-global-realtime-product-surface.md)
+**Parent system design:** [02 — Streaming Token Delivery](./02-streaming-token-delivery.md)  
+**Also references:** [10 — Global realtime product](./10-global-realtime-product-surface.md)
 
 ## Users & problem
 
