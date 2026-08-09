@@ -1,5 +1,7 @@
 # Use Case: Collaborative Playground
 
+**YouTube walkthrough:** [Collaborative Playground — System Design #Shorts](https://youtu.be/YgqE_iyIIE8)
+
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
@@ -49,6 +51,9 @@ Reuse sequenced event log from **02**; add **fanout** and **ACL on control plane
 
 
 ## Design walkthrough (opens on GitHub)
+
+> **Watch on YouTube:** [Collaborative Playground — System Design #Shorts](https://youtu.be/YgqE_iyIIE8)
+
 
 ![Design overview](docs/video/design-overview.gif)
 
